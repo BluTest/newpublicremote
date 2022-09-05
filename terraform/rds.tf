@@ -1,6 +1,6 @@
 resource "aws_db_instance" "mysql" {
-  name                 = "test-mysql"
-  allocated_storage    = 100
+  name                 = "test-mysql-1"
+  allocated_storage    = 200
   engine               = "mysql"
   engine_version       = "5.7"
   instance_class       = "db.t3.micro"
@@ -13,7 +13,7 @@ resource "aws_db_instance" "mysql" {
 
 variable "database_name" {
   type    = string
-  default = "test-mysql"
+  default = "test-mysql-1"
 }
 
 variable "rds_password" {
