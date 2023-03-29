@@ -18,3 +18,7 @@ cool_pass="1m$oCool!!!"
 second_cool_pass="1m2Cool4U!!!"
 
 awesome_password = '9875(*&%ouiytgLIYUTG'
+
+
+
+password = 'LKSHdifuyqwiefy2' # BluBracketIgnore
