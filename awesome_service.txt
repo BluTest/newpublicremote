@@ -22,3 +22,5 @@ awesome_password = '9875(*&%ouiytgLIYUTG'
 not_awesome_PassWord = "98675(*&^%ouytgouiyF"
 
 more_not_awesome_passWord = "98756(*&%^kuiokygOLIUYG"
+
+awesome_password = "9875(*^&%uiyguoyfKUIY F"
